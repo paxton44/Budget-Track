@@ -18,7 +18,7 @@ This application gives a user the opportunity to track their budget offline whil
 
 
 ## User Story
-<pre><code>As a User that is traveling I want to be able to track my travel budget whether I have an internet connection or not.y</code></pre>
+<pre><code>As a User that is traveling I want to be able to track my travel budget whether I have an internet connection or not.</code></pre>
 
 ## Building Tools 
  * CSS
