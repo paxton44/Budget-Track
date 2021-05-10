@@ -18,9 +18,7 @@ This application gives a user the opportunity to track their budget offline whil
 
 
 ## User Story
-<pre><code>As a User that is practicing social distancing, but still wants to have fun while staying safely at home 
-I WANT an app that gives me a cocktail recipe when selected and also provides me with a playlist to go with it 
-SO THAT I can still have fun while being responsible, and I can share with my friends remotely</code></pre>
+<pre><code>As a User that is traveling I want to be able to track my travel budget whether I have an internet connection or not.y</code></pre>
 
 ## Building Tools 
  * CSS
