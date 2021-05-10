@@ -13,7 +13,7 @@ This application gives a user the opportunity to track their budget offline whil
 
 
 ## Deployed Page
- * https://github.com/paxton44/Budget-Track
+ * https://budget-tracker-mpf2021.herokuapp.com/
 
 
 
